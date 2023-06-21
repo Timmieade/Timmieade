@@ -6,7 +6,7 @@ FullStack Web Developer
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [adewole.timileyin.at@gmail.com](mailto:adewole.timileyin.at@gmail.com)
-* 🧠  I'm learning JavaScript
+* 🧠  I'm learning React
 * 🤝  I'm open to collaborating on Projects
 * ⚡  Ask me anything
 
